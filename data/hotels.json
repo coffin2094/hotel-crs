@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1752571621316,
+    "code": "H0001",
+    "name": "Hotel Fast Arch",
+    "address": "Metro Road",
+    "type": "Hotel",
+    "roomTypes": [
+      "Single",
+      "Double"
+    ],
+    "latitude": 28.61,
+    "longitude": 77.2
+  },
+  {
+    "id": 1752571819307,
+    "code": "H001",
+    "name": "Hotel Aman Palace",
+    "address": "Ring Road",
+    "type": "Hotel",
+    "roomTypes": [
+      "Single",
+      "Double"
+    ],
+    "latitude": 28.65,
+    "longitude": 77.22
+  },
+  {
+    "id": 1752571887356,
+    "code": "H001",
+    "name": "Hotel Aman Palace",
+    "address": "Ring Road",
+    "type": "Hotel",
+    "roomTypes": [
+      "Single",
+      "Double"
+    ],
+    "latitude": 28.65,
+    "longitude": 77.22
+  }
+]
