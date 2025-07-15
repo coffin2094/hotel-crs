@@ -37,5 +37,18 @@
     ],
     "latitude": 28.65,
     "longitude": 77.22
+  },
+  {
+    "id": 1752574443788,
+    "code": "H100",
+    "name": "Test Inn",
+    "address": "Test Street",
+    "type": "Hotel",
+    "roomTypes": [
+      "Single",
+      "Deluxe"
+    ],
+    "latitude": 28.6,
+    "longitude": 77.2
   }
 ]
